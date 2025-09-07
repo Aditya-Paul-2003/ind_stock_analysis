@@ -1,1 +1,0 @@
-# ind_stock_analysis
