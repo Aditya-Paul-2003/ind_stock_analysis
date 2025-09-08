@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+yfinance
+sqlalchemy
+sqlite3
+jupyterlab
+matplotlib
+seaborn
